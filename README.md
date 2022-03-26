@@ -1,4 +1,4 @@
-# Fintech-W5
+
 # Project Title: Financial Tools using API and Monte Carlo simulation
 
 The project will use Alpaca and the MCForecastTools library to simulate the future performance of an investment portfolio that includes three stocks.
@@ -49,12 +49,6 @@ from MCForecastTools import MCSimulation
 ## Usage
 
 To run the financial tool program, simply clone the repository,  establish API keys for alpaca, and go through the written steps in the financial_tools.ipynb file.
-
-
-Here is a screenshot
-
-![Screenshot](Screenshot.png)
-
 
 ---
 
