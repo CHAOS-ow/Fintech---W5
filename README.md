@@ -1,8 +1,8 @@
 
-# Group 3 Project
-Hypothesis: Are meme-stocks actually risky or are they worth investing in?
+# Project Title: Financial Tools using API and Monte Carlo simulation
 
 
+The project will use Alpaca and the MCForecastTools library to simulate the future performance of an investment portfolio that includes three stocks.
 ---
 
 ## Technologies:
@@ -54,11 +54,8 @@ To run the financial tool program, simply clone the repository,  establish API k
 
 ## Contributors
 
-Sungmoo Ban
-Ryan Johnson
 Jung Kim
-Jennifer Taylor
-Danica Valera
+
 
 
 ---
