@@ -1,5 +1,6 @@
 
-# Project Title: Are meme-stocks actually risky or are they worth investing in?
+# Group 3 Project
+Hypothesis: Are meme-stocks actually risky or are they worth investing in?
 
 
 ---
