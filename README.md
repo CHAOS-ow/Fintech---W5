@@ -1,7 +1,6 @@
 
-# Project Title: Financial Tools using API and Monte Carlo simulation
+# Project Title: Are meme-stocks actually risky or are they worth investing in?
 
-The project will use Alpaca and the MCForecastTools library to simulate the future performance of an investment portfolio that includes three stocks.
 
 ---
 
@@ -48,15 +47,18 @@ from MCForecastTools import MCSimulation
 
 ## Usage
 
-To run the financial tool program, simply clone the repository,  establish API keys for alpaca, and go through the written steps in the financial_tools.ipynb file.
+To run the financial tool program, simply clone the repository,  establish API keys for alpaca, and go through the written steps in the *.ipynb file.
 
 ---
 
 ## Contributors
 
-Jung Kim aka CHAOS
+Sungmoo Ban
+Ryan Johnson
+Jung Kim
+Jennifer Taylor
+Danica Valera
 
-github.com/chaos4us
 
 ---
 
